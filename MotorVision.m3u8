@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=705720,CODECS="avc1.4d401e,mp4a.40.2",RESOLUTION=480x360
-https://op-group1-swiftservehd-1.dens.tv/h/h09/02.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2749198,CODECS="avc1.4d4028,mp4a.40.2",RESOLUTION=1280x720
-https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1920x1080
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=760966&extension=ts&play_token=dRajQlY0HD
