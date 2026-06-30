@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1920x1080
-hhttp://link.zozotv.xyz:8080/live/QS3315/K717976/4645.ts
-#EXT-X-STREAM-INF:BANDWIDTH=1496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-hhttp://link.zozotv.xyz:8080/live/QS3315/K717976/4645.ts
-#EXT-X-STREAM-INF:BANDWIDTH=496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
-http://link.zozotv.xyz:8080/live/QS3315/K717976/4645.ts
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1745092&extension=ts&play_token=1ybAsVw65B
