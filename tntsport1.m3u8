@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1920x1080
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2505/1080_p.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1311899&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2505/720_p.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1174236&extension=m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/Q9HCQVD66DX86T/2505/480_p.m3u8
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1311948&extension=m3u8
