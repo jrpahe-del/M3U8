@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=2700000
-http://nexusconnects.org:80/play/live.php?mac=00:1A:79:BF:DA:99&stream=948035&extension=m3u8&play_token=wIuQK5ufwL
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:BF:DA:99&stream=948035&extension=m3u8
