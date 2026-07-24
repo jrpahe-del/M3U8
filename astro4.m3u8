@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:81:f9:a0&stream=918985&extension=m3u8
