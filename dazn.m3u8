@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+http://nk.team-tx.st:80/play/live.php?mac=00:1A:79:81:f9:a0&stream=1221178&extension=m3u8
