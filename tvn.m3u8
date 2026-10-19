@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=854x480
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:C6:EE:76&stream=382861&extension=m3u8
