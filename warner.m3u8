@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2700000
+http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:C6:EE:76&stream=901282&extension=m3u8
